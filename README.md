@@ -43,5 +43,5 @@ Məqsədim İT və Data Science sahəsində biliklərimi inkişaf etdirmək, rea
 ## Əlaqə
 
 * Email: faridamamedova1209@gmail.com
-* GitHub: [GitHub profil linkini əlavə et]
+* GitHub: https://github.com/mamedovafarida/faridamamedova 
 
